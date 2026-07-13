@@ -1,8 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="light.svg">
-  <img alt="Header" src="dark.svg">
-</picture>
 
 # 💫 About Me:
 Hi I am Parth Rathi<br>🌱 I’m currently learning Data Structures & Algorithms (DSA)<br>💬 Ask me about Java , Android Development <br>📫 Reach me at rathiparth18@gmail.com
